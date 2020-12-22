@@ -1,0 +1,34 @@
+item {
+    id: 1
+    name: 'Ball Valve'
+}
+
+item {
+    id: 2
+    name: 'Gate Valve'
+}
+
+item {
+    id: 3
+    name: 'Globe Valve'
+}
+
+item {
+    id: 4
+    name: 'Indicator'
+}
+
+item {
+    id: 5
+    name: 'Shared_indicator_01'
+}
+
+item {
+    id: 6
+    name: 'Shared_indicator_02'
+}
+
+item {
+    id: 7
+    name: 'Temperature_indicator'
+}
